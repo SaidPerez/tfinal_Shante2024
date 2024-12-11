@@ -27,5 +27,5 @@ function mover(event){
     shante.style.left = x + "px";
 }
 
-
+console.log("Esta es una modificación");
 //shante.setAttribute("src","img/Vidas/heart_1.png");
